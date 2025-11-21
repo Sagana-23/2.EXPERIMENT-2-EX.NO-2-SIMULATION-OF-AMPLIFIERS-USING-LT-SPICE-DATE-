@@ -22,8 +22,7 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
-
+<img width="918" height="670" alt="ss inverting circuit" src="https://github.com/user-attachments/assets/412aeb55-e665-4c2a-a3ed-9f8a6e8af55e" />
 
 ---
 
@@ -31,42 +30,47 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+<img width="1897" height="452" alt="ss inverting op" src="https://github.com/user-attachments/assets/06f151e6-4556-410f-8651-fa7280c1be17" />
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+<img width="980" height="645" alt="ss non in circuit" src="https://github.com/user-attachments/assets/1bc76a86-7f9a-422d-b926-fff0449defce" />
+
 ---
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1908" height="458" alt="ss non in op" src="https://github.com/user-attachments/assets/4c13fb71-1847-4a05-b655-2baccd0e85f5" />
 
-PASTE THE OUTPUT WAVEFORM HERE
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+<img width="983" height="680" alt="ss differntial cir" src="https://github.com/user-attachments/assets/8e8bb57f-2367-4849-87c2-055494b754cb" />
+
 ---
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="1908" height="452" alt="ss differntial op" src="https://github.com/user-attachments/assets/4969e1f7-dbac-4278-8844-cc7537011692" />
+
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+<img width="1087" height="639" alt="ss inst cir" src="https://github.com/user-attachments/assets/4d8c62a5-f4ec-437a-b34f-714f6224481a" />
+
 ---
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+<img width="1902" height="463" alt="ss inst op" src="https://github.com/user-attachments/assets/95b07e67-3ad0-4e21-b6d8-e01ce9c64b16" />
+
 ---
 
 ## RESULT
